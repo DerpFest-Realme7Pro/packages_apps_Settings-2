@@ -685,4 +685,20 @@
     <string name="reset_auto_brightness_adjustment_summary">Let the system forget your brightness preference and reset it to the default one</string>
     <string name="reset_auto_brightness_adjustment_done">Auto brightness preference has been reset</string>
 
+    <!-- SparkOS versioning -->
+    <string name="spark_version_title">Version</string>
+    <string name="spark_device_title">Device</string>
+    <string name="spark_release_type_title">Release type</string>
+    <string name="spark_maintainer_title">Maintainer</string>
+
+    <!-- About page -->
+    <string name="battery">Battery</string>
+    <string name="display">Display</string>
+    <string name="storage">Storage</string>
+    <string name="chipset">Chipset</string>
+
+    <string name="wellbeing_title">Google Wellbeing</string>
+    <string name="usercard_summary">Current active user, tap for more information</string>
+    <string name="connectivity_category_title">connectivity</string>
+
 </resources>
